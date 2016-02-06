@@ -4,5 +4,5 @@
 * [First Chapter](chapter1.md)
 * [Problems](problems.md)
 * [Breeding](breeding.md)
-* Trapping
+* [Trapping](trapping.md)
 
