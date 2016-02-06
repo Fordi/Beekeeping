@@ -8,3 +8,9 @@
 * Add belled legs to hive platform
     * That is, legs have a bell on them, the inside or the bell is greased.  The ants are unable to climb past this barrier
     
+## Varroa mites: know your enemy
+
+* [Varroa reproductive cycle]
+
+
+[Varroa reproductive cycle]: http://www.ars.usda.gov/services/docs.htm?docid=2744&page=14
