@@ -1,5 +1,5 @@
 # Threats to colony
 
-* Ants
+* Ants, particularly argentine ants.
 * Varroa mites
 * 
