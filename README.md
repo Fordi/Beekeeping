@@ -1,3 +1,3 @@
-# My Awesome Book
+# Beekeeping
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is meant to serve as a dumping ground for data I'm learning about keeping bees.
