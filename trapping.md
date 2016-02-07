@@ -7,6 +7,8 @@
 
 [Methods of trapping feral swarms]: http://feralhoneybees.homestead.com/methods.html
 
+Essentially: build a mini-hive out of a 5-frame honey super, add a top and bottom; the bottom should have a 1" hole in it, and the back should have something to hang from.  Touch it with a few drops of lemongrass oil, and set high in a tree somewhere.
+
 [Nasonov pheromone]: https://en.wikipedia.org/wiki/Nasonov_pheromone
 [citral]: https://en.wikipedia.org/wiki/Citral
 [geraniol]: https://en.wikipedia.org/wiki/Geraniol
