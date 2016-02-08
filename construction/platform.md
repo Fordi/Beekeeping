@@ -14,9 +14,11 @@ Creates a level surface for five hives, away from the ground, protecting them fr
 * Should have an open bottom (to allow mites to fall through)
 * Should be rot-resistant
 * Should raise hive off the ground, at least three feet
-* 
+
+
 ## Ideas
-* 1/2 Schedule 40 PVC tubing should be sufficient for the legs, at $2.50/10ft
-* Pressure-treated 2x4
-* See here: https://youtu.be/hE9kr96bI9E?t=6m8s  
-The wooden frame looks like a good idea and design.  My version would add triangular board pairs on the corners and squares in the middle supports, both for the purposes of accepting the PVC legs.  The lower board will have a hole through it; the upper one will have a depression to align the leg.
+* 1/2 Schedule 40 PVC tubing should be enough for the legs, at $2.50/10 ft
+* Pressure-treated pine two-by-four, available at $2.50 / 8 ft
+* [This frame] looks like a good idea and design.  My version would add triangular board pairs on the corners, and squares in the middle supports. both are for the purposes of accepting the PVC legs.  The lower board will have a hole through it; the upper one will have a depression to align the leg.
+
+[This frame]: https://youtu.be/hE9kr96bI9E?t=6m8s
