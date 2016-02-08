@@ -20,5 +20,6 @@ Creates a level surface for five hives, away from the ground, protecting them fr
 * 1/2 Schedule 40 PVC tubing should be enough for the legs, at $2.50/10 ft
 * Pressure-treated pine two-by-four, available at $2.50 / 8 ft
 * [This frame] looks like a good idea and design.  My version would add triangular board pairs on the corners, and squares in the middle supports. both are for the purposes of accepting the PVC legs.  The lower board will have a hole through it; the upper one will have a depression to align the leg.
+* The metal crossbars shown in the video may also work.
 
 [This frame]: https://youtu.be/hE9kr96bI9E?t=6m8s
