@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Hive construction](construction/README.md)
-   * Hive platform
+   * [Hive platform](construction/platform.md)
 * [Problems](problems.md)
 * [Breeding](breeding.md)
 * [Trapping](trapping.md)
