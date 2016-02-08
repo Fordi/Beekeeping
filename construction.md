@@ -1,10 +1,7 @@
 
 
 * Hive stand
-    * Rot-resistant wood
-    * Should match the stacking dimensions of the supers
-    * Should have open bottom, to allow the release of varroa mites
-    * Optionally, on legs, to reduce attack by ants.
+
 * Hive bottom box
     * [Mesh bottom]
     * 
