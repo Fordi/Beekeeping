@@ -1,6 +1,6 @@
 # Hive construction
 
-* [Plans for a 10-frame hive super]
+
 
 A hive is generally constructed of the following layers, starting bottom to top:
 
@@ -26,7 +26,7 @@ A hive is generally constructed of the following layers, starting bottom to top:
     * [Mesh bottom]
     * 
 
-
+* [Plans for a 10-frame hive super]
 
 [Plans for a 10-frame hive super]: http://www.michiganbees.org/wp-content/uploads/2012/01/Hive-Bodies_20110323.pdf
 
