@@ -1,8 +1,3 @@
-# Hive construction
-
-
-
-A hive is generally constructed of the following layers, starting bottom to top:
 
 * Hive platform - Creates a level surface for five hives, away from the ground, protecting them from flooding, ants, and allowing for improved airflow through the hive
     * Requirements
