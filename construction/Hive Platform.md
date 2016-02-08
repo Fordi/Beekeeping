@@ -10,7 +10,7 @@ Creates a level surface for five hives, away from the ground, protecting them fr
 * Should have reasonably high mass (to avoid being blown over)
 * Should have an open bottom (to allow mites to fall through)
 * Should be rot-resistant
-* Should not raise hive significantly off the ground, but should have enough room on the legs to fit a (perhaps removable) greased bell.
+* Should not raise hive significantly off the ground, about three feet minimum
     
 ## Ideas
 * 1/2 Schedule 40 PVC tubing should be sufficient for the legs, at $2.50/10ft
