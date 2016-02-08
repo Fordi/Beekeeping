@@ -5,13 +5,16 @@ Creates a level surface for five hives, away from the ground, protecting them fr
 
 
 ## Requirements
-* Needs to support five hives, containing up to two hive body supers (50 kg) and two honey supers (30 kg), plus margin of error (1.5) - total support requirement: 240 kg
-* Should be minimally expensive (off-the-shelf, inexpensive constructrion materials)
-* Should have reasonably high mass (to avoid being blown over)
+* Needs to support five hives
+    * Hive is up to two brood supers (50 kg) and two honey supers (30 kg)
+    * The other components are of low mass, comparatively.
+    * With a margin of error of 0.5, that's a total support requirement of 240 kg.
+* Should be minimally expensive (off-the-shelf, inexpensive construction materials)
+* Should have reasonably high mass, to avoid falling over in the wind when empty
 * Should have an open bottom (to allow mites to fall through)
 * Should be rot-resistant
-* Should not raise hive significantly off the ground, about three feet minimum
-    
+* Should raise hive off the ground, at least three feet
+* 
 ## Ideas
 * 1/2 Schedule 40 PVC tubing should be sufficient for the legs, at $2.50/10ft
 * Pressure-treated 2x4
